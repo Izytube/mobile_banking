@@ -4,9 +4,9 @@ h2{color: purple;}
 
 .gen {text-align: center; color: white;}
 
-.gen select{width: 2000%; height: 32px; border: 2px solid rgb(139, 109, 20); border-radius: 4px;}
+.gen select{width: 2000px; height: 32px; border: 2px solid rgb(139, 109, 20); border-radius: 4px;}
 
-.gen input{width: 2000%; height: 30px; border: 2px solid rgb(139, 109, 20); border-radius: 4px;}
+.gen input{width: 2000px; height: 30px; border: 2px solid rgb(139, 109, 20); border-radius: 4px;}
 
 .gen button{background-color: aquamarine; width: 200px; height: 25px; border-radius: 5px;}
 
