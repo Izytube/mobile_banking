@@ -4,11 +4,11 @@ h2{color: purple;}
 
 .gen {text-align: center; color: white;}
 
-.gen select{width: 17.7%; height: 32px; border: 2px solid rgb(139, 109, 20); border-radius: 4px;}
+.gen select{width: 2000%; height: 32px; border: 2px solid rgb(139, 109, 20); border-radius: 4px;}
 
-.gen input{width: 17%; height: 30px; border: 2px solid rgb(139, 109, 20); border-radius: 4px;}
+.gen input{width: 2000%; height: 30px; border: 2px solid rgb(139, 109, 20); border-radius: 4px;}
 
-.gen button{background-color: aquamarine; width: 7%; height: 25px; border-radius: 5px;}
+.gen button{background-color: aquamarine; width: 200px; height: 25px; border-radius: 5px;}
 
 .gen #response{color: rgb(158, 158, 9); font-size: 20px;}
 
