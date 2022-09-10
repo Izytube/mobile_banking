@@ -82,7 +82,7 @@ function exitApp() {
     fifthBox.value = ""
 }
 
-serviceBox.addEventListener("mouseover", function(){
+serviceBox.addEventListener("click", function(){
     acceptValuess()
 })
 
