@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="main.css">
+    <title>USSD CLONE</title>
+</head>
+<body>
+    <div class="gen">
+        <h2>FCMB MOBILE BANKING</h2>
+        <form >
+            <label id="serviceBoxLb">Kindly Select Service</label><br>
+            <select id="serviceBox">
+                <option value="">SERVICE</option>
+                <option value="Transfer">Transfer</option>
+                <option value="Airtime">Buy Airtime</option>
+                <option value="Data">Buy Data</option>
+                <option value="Bill">Bill Payment</option>
+            </select><br>
+            <label id="serviceBoxError"></label><br><br>
+
+            <label id="secondBoxLb">Select Service Option</label><br>
+            <select id="secondBox">
+                <option value="">SERVICE OPTION</option>
+                <option value="Bank">Instant Transfer</option>
+                <option value="Prepaid">Prepaid</option>
+                <option value="PostPaid">PostPaid</option>
+            </select><br>
+            <label id="secondBoxError"></label><br><br>
+
+            <label id="thirdBoxLb" ></label><br>
+            <input type="text" id="thirdBox"><br>
+            <label id="thirdBoxError"></label><br><br>
+
+            <label id="fourthBoxLb" ></label><br>
+            <input type="number" id="fourthBox"><br>
+            <label id="fourthBoxError"></label><br><br>
+
+            <label id="fifthBoxLb" ></label><br>
+            <input type="password" id="fifthBox"><br>
+            <label id="fifthBoxError"></label><br><br>
+        </form>
+
+        <button type="button" id="btn">Proceed</button><br><br>
+            <label id="response" ></label><br><br>
+
+
+            <p>powered by Izy Tube</p>
+    </div>
+    <script src="main.js"></script>
+</body>
+</html>

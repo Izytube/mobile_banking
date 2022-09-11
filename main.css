@@ -1,0 +1,17 @@
+body{background-image: url(img-13.gif); background-repeat: no-repeat; background-position: center; background-size: cover;}
+
+h2{color: purple;}
+
+.gen {text-align: center; color: white;}
+
+.gen select{width: 17.7%; height: 32px; border: 2px solid rgb(139, 109, 20); border-radius: 4px;}
+
+.gen input{width: 17%; height: 30px; border: 2px solid rgb(139, 109, 20); border-radius: 4px;}
+
+.gen button{background-color: aquamarine; width: 7%; height: 25px; border-radius: 5px;}
+
+.gen #response{color: rgb(158, 158, 9); font-size: 20px;}
+
+.gen #serviceBoxError, #secondBoxError, #thirdBoxError, #fourthBoxError, #fifthBoxError{color: red; font-size: 15px; font-style: italic;}
+
+.gen #serviceBoxLb, #secondBoxLb, #thirdBoxLb, #fourthBoxLb, #fifthBoxLb{color: green; font-size: 17px;}
